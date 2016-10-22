@@ -2,5 +2,5 @@
 void main ()
 {
   int x;
-  printf("%d",x);
+  sprintf("%d",x);
 }
